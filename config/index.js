@@ -20,7 +20,7 @@ export const config = {
    *    // 想要发送的人的名字
    *    name: "大腿0",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    id: "odJ9v54eW7bxHrIv6puc2Yosu608",
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
